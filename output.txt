@@ -1,0 +1,144 @@
+1.	10 numbers in almost sorted order (a few out of order)
+Original Group: 
+-95 -90 -83 -77 -71 -66 -47 -53 -49 -41 
+Array is sorted by : Bubble Sort, took 45 passes. 
+This is the sorted array: 
+-95 -90 -83 -77 -71 -66 -53 -49 -47 -41 
+Array is sorted by: Quick Sort, took 7 passes. 
+This is the sorted array: 
+-95 -90 -83 -77 -71 -66 -53 -49 -47 -41 
+Array is sorted by : Shell Sort, took 22 passes. 
+This is the sorted array: 
+-95 -90 -83 -77 -71 -66 -53 -49 -47 -41 
+
+
+
+
+2.	10 numbers in random order
+Original Group: 
+-41 69 -23 -42 55 -74 52 -66 6 -25 
+Array is sorted by : Bubble Sort, took 45 passes. 
+This is the sorted array: 
+-74 -66 -42 -41 -25 -23 6 52 55 69 
+Array is sorted by: Quick Sort, took 9 passes. 
+This is the sorted array: 
+-74 -66 -42 -41 -25 -23 6 52 55 69 
+Array is sorted by : Shell Sort, took 22 passes. 
+This is the sorted array: 
+-74 -66 -42 -41 -25 -23 6 52 55 69 
+
+
+
+
+3.	10 numbers in reverse order (a few out of order)
+Original Group: 
+58 54 49 47 46 42 40 33 -52 26 
+Array is sorted by : Bubble Sort, took 45 passes. 
+This is the sorted array: 
+-52 26 33 40 42 46 47 49 54 58 
+Array is sorted by: Quick Sort, took 7 passes. 
+This is the sorted array: 
+-52 26 33 40 42 46 47 49 54 58 
+Array is sorted by : Shell Sort, took 22 passes. 
+This is the sorted array: 
+-52 26 33 40 42 46 47 49 54 58 
+
+
+
+
+4.	30 numbers in almost sorted order (a few out of order)
+Original Group: 
+-88 -83 -75 -67 -62 -60 -57 -51 -45 -40 -37 -34 -27 -19 4 -8 -3 2 7 8 11 18 25 31 37 42 45 52 57 58 
+Array is sorted by : Bubble Sort, took 435 passes. 
+This is the sorted array: 
+-88 -83 -75 -67 -62 -60 -57 -51 -45 -40 -37 -34 -27 -19 -8 -3 2 4 7 8 11 18 25 31 37 42 45 52 57 58 
+Array is sorted by: Quick Sort, took 18 passes. 
+This is the sorted array: 
+-88 -83 -75 -67 -62 -60 -57 -51 -45 -40 -37 -34 -27 -19 -8 -3 2 4 7 8 11 18 25 31 37 42 45 52 57 58 
+Array is sorted by : Shell Sort, took 94 passes. 
+This is the sorted array: 
+-88 -83 -75 -67 -62 -60 -57 -51 -45 -40 -37 -34 -27 -19 -8 -3 2 4 7 8 11 18 25 31 37 42 45 52 57 58 
+
+
+
+
+5.	30 numbers in random order
+Original Group: 
+-97 30 -84 69 90 3 -50 63 -73 -86 75 -32 -54 47 -47 -83 -29 46 43 35 91 51 -58 -56 -28 53 9 85 -78 84 
+Array is sorted by : Bubble Sort, took 435 passes. 
+This is the sorted array: 
+-97 -86 -84 -83 -78 -73 -58 -56 -54 -50 -47 -32 -29 -28 3 9 30 35 43 46 47 51 53 63 69 75 84 85 90 91 
+Array is sorted by: Quick Sort, took 22 passes. 
+This is the sorted array: 
+-97 -86 -84 -83 -78 -73 -58 -56 -54 -50 -47 -32 -29 -28 3 9 30 35 43 46 47 51 53 63 69 75 84 85 90 91 
+Array is sorted by : Shell Sort, took 94 passes. 
+This is the sorted array: 
+-97 -86 -84 -83 -78 -73 -58 -56 -54 -50 -47 -32 -29 -28 3 9 30 35 43 46 47 51 53 63 69 75 84 85 90 91 
+
+
+
+
+6.	30 numbers in reverse order (a few out of order)
+Original Group: 
+15 9 6 -2 -8 -10 -18 -19 -21 -23 -26 -29 -30 -34 -36 -38 29 -49 -50 78 -57 -59 -61 -69 -75 -83 -15 -90 -94 -99 
+Array is sorted by : Bubble Sort, took 435 passes. 
+This is the sorted array: 
+-99 -94 -90 -83 -75 -69 -61 -59 -57 -50 -49 -38 -36 -34 -30 -29 -26 -23 -21 -19 -18 -15 -10 -8 -2 6 9 15 29 78 
+Array is sorted by: Quick Sort, took 23 passes. 
+This is the sorted array: 
+-99 -94 -90 -83 -75 -69 -61 -59 -57 -50 -49 -38 -36 -34 -30 -29 -26 -23 -21 -19 -18 -15 -10 -8 -2 6 9 15 29 78 
+Array is sorted by : Shell Sort, took 94 passes. 
+This is the sorted array: 
+-99 -94 -90 -83 -75 -69 -61 -59 -57 -50 -49 -38 -36 -34 -30 -29 -26 -23 -21 -19 -18 -15 -10 -8 -2 6 9 15 29 78 
+
+
+
+
+7.	50 numbers in almost sorted order (a few out of order)
+Original Group: 
+19 24 31 38 45 49 52 55 62 65 67 57 83 73 78 81 84 92 98 100 104 109 112 120 128 -49 136 140 -81 153 160 166 171 174 179 180 187 190 80 200 206 211 218 226 229 237 242 243 247 255 
+Array is sorted by : Bubble Sort, took 1225 passes. 
+This is the sorted array: 
+-81 -49 19 24 31 38 45 49 52 55 57 62 65 67 73 78 80 81 83 84 92 98 100 104 109 112 120 128 136 140 153 160 166 171 174 179 180 187 190 200 206 211 218 226 229 237 242 243 247 255 
+Array is sorted by: Quick Sort, took 44 passes. 
+This is the sorted array: 
+-81 -49 19 24 31 38 45 49 52 55 57 62 65 67 73 78 80 81 83 84 92 98 100 104 109 112 120 128 136 140 153 160 166 171 174 179 180 187 190 200 206 211 218 226 229 237 242 243 247 255 
+Array is sorted by : Shell Sort, took 203 passes. 
+This is the sorted array: 
+-81 -49 19 24 31 38 45 49 52 55 57 62 65 67 73 78 80 81 83 84 92 98 100 104 109 112 120 128 136 140 153 160 166 171 174 179 180 187 190 200 206 211 218 226 229 237 242 243 247 255 
+
+
+
+
+8.	50 numbers in random order
+Original Group: 
+-8 -52 -93 25 12 98 8 -53 88 60 41 -92 -79 -40 -86 -23 -2 30 -21 -90 81 1 -73 -47 51 -82 17 -97 19 71 46 -77 -12 -59 39 -18 -19 83 -72 61 -13 -28 -98 23 -32 75 96 -11 49 29 
+Array is sorted by : Bubble Sort, took 1225 passes. 
+This is the sorted array: 
+-98 -97 -93 -92 -90 -86 -82 -79 -77 -73 -72 -59 -53 -52 -47 -40 -32 -28 -23 -21 -19 -18 -13 -12 -11 -8 -2 1 8 12 17 19 23 25 29 30 39 41 46 49 51 60 61 71 75 81 83 88 96 98 
+Array is sorted by: Quick Sort, took 46 passes. 
+This is the sorted array: 
+-98 -97 -93 -92 -90 -86 -82 -79 -77 -73 -72 -59 -53 -52 -47 -40 -32 -28 -23 -21 -19 -18 -13 -12 -11 -8 -2 1 8 12 17 19 23 25 29 30 39 41 46 49 51 60 61 71 75 81 83 88 96 98 
+Array is sorted by : Shell Sort, took 203 passes. 
+This is the sorted array: 
+-98 -97 -93 -92 -90 -86 -82 -79 -77 -73 -72 -59 -53 -52 -47 -40 -32 -28 -23 -21 -19 -18 -13 -12 -11 -8 -2 1 8 12 17 19 23 25 29 30 39 41 46 49 51 60 61 71 75 81 83 88 96 98 
+
+
+
+
+9.	50 numbers in reverse order (or almost reverse)
+Original Group: 
+4 0 -3 -9 -15 -20 -28 -33 -36 -43 -47 -55 -57 -59 -66 79 -78 -85 -26 -97 -102 -103 -109 -112 -114 -122 29 -125 -128 -131 -133 -135 65 -146 69 -154 -157 -161 -162 -166 -173 -174 -179 -184 -186 -193 -196 -199 -200 -206 
+Array is sorted by : Bubble Sort, took 1225 passes. 
+This is the sorted array: 
+-206 -200 -199 -196 -193 -186 -184 -179 -174 -173 -166 -162 -161 -157 -154 -146 -135 -133 -131 -128 -125 -122 -114 -112 -109 -103 -102 -97 -85 -78 -66 -59 -57 -55 -47 -43 -36 -33 -28 -26 -20 -15 -9 -3 0 4 29 65 69 79 
+Array is sorted by: Quick Sort, took 40 passes. 
+This is the sorted array: 
+-206 -200 -199 -196 -193 -186 -184 -179 -174 -173 -166 -162 -161 -157 -154 -146 -135 -133 -131 -128 -125 -122 -114 -112 -109 -103 -102 -97 -85 -78 -66 -59 -57 -55 -47 -43 -36 -33 -28 -26 -20 -15 -9 -3 0 4 29 65 69 79 
+Array is sorted by : Shell Sort, took 203 passes. 
+This is the sorted array: 
+-206 -200 -199 -196 -193 -186 -184 -179 -174 -173 -166 -162 -161 -157 -154 -146 -135 -133 -131 -128 -125 -122 -114 -112 -109 -103 -102 -97 -85 -78 -66 -59 -57 -55 -47 -43 -36 -33 -28 -26 -20 -15 -9 -3 0 4 29 65 69 79 
+
+
+
+
